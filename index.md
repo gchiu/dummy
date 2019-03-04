@@ -1,6 +1,2 @@
-<html>
-<head>
-<body>
+
 <h1> testing </h1>
-</body>
-</html>
